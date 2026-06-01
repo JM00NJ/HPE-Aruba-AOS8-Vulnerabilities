@@ -27,8 +27,8 @@ Six vulnerabilities were identified and submitted. The findings span the ICMP IP
 | # | Title | Submission | CWE | CVSS | Status |
 |---|-------|------------|-----|------|--------|
 | 1 | [Pre-Auth XXE → HTTP SSRF](01-xxe-http-ssrf/writeup.md) | 9e946ca3 | CWE-611 | 9.3 Critical | N/A — RaR expired unanswered |
-| 2 | [Pre-Auth ICMP Reflection + Smurf Amplification](02-smurf-reflection.md) | 09e49fa1 | CWE-290, CWE-406 | 7.4 High | N/A — RaR pending |
-| 3 | ["Ghost Leak" — Buffer Over-read via TTL=0 + IP Length](03-ghost-leak-ttl0-overread.md) | c5eda0ae | CWE-126, CWE-1284, CWE-354 | 6.5 Medium | N/A — RaR submitted |
+| 2 | [ICMP Reflection + Smurf](02-smurf-reflection/writeup.md) | 09e49fa1 | CWE-290, CWE-406 | 7.4 High | N/A — RaR pending |
+| 3 | [Ghost Leak](03-ghost-leak/writeup.md) | c5eda0ae | CWE-126, CWE-1284, CWE-354 | 6.5 Medium | N/A — RaR submitted |
 | 4 | Pre-Auth XXE → FTP SSRF with RETR | 0c716fec | CWE-611 | — | Pending external review |
 | 5 | Hardcoded FTP Credential (sap:x, CWE-798) | d13d0e83 | CWE-798, CWE-125 | — | Active — awaiting vendor response |
 | 6 | ICMP Payload Relay — Zero DPI | b5727197 | CWE-20, CWE-693 | — | N/A |
