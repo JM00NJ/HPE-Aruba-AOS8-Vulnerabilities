@@ -4,6 +4,13 @@
 > without technical reconciliation of the submitted evidence. 
 > **No fixes have been issued as of June 2026.**
 
+
+# Sources
+https://netacoding.com/posts/ghost-leak/
+https://netacoding.com/posts/smurf-reflection/
+https://netacoding.com/posts/xxe-ssrf/
+
+
 # HPE-Aruba-AOS8-Vulnerabilities
 ArubaOS 8.13.2.0 pre-auth attack surface research. XXE+SSRF, ICMP  reflection, buffer over-read, hardcoded credentials — all submitted to  HPE Bugcrowd, marked N/A. No fixes issued.
 
