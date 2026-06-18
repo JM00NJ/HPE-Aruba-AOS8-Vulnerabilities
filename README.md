@@ -45,7 +45,7 @@ Six vulnerabilities were identified and submitted. The findings span the ICMP IP
 | 2 | [ICMP Reflection + Smurf](02-smurf-reflection/writeup.md) | 09e49fa1 | CWE-290, CWE-406 | 7.4 High | N/A  |
 | 3 | [Ghost Leak](03-ghost-leak/writeup.md) | c5eda0ae | CWE-126, CWE-1284, CWE-354 | 6.5 Medium | N/A — RaR submitted |
 | 4 | [Pre-Auth XXE → FTP SSRF with RETR](04-xxe-ftp-ssrf/report_ftp_ssrf_p1.md) | 0c716fec | CWE-611 | — | N/A |
-| 5 | [Hardcoded FTP Credential / sap:x (CWE-798](05-Hardcoded-FTP-Credential/CAN-2026-2032115_ArubaOS_Hardcoded_Credential_sap.md) | d13d0e83 | CWE-798, CWE-125 | — | Active — No response |
+| 5 | [Hardcoded FTP Credential / sap:x (CWE-798](05-Hardcoded FTP Credential/CAN-2026-2032115_ArubaOS_Hardcoded_Credential_sap.md) | d13d0e83 | CWE-798, CWE-125 | — | Active — No response |
 | 6 | ICMP Payload Relay — Zero DPI | b5727197 | CWE-20, CWE-693 | — | N/A |
 
 Findings 4 and 5 are not published here pending resolution through active disclosure channels.
