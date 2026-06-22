@@ -48,7 +48,6 @@ Six vulnerabilities were identified and submitted. The findings span the ICMP IP
 | 5 | [Hardcoded FTP Credential / sap:x (CWE-798](05-Hardcoded-FTP-Credential/CAN-2026-2032115_ArubaOS_Hardcoded_Credential_sap.md) | d13d0e83 | CWE-798, CWE-125 | — | Active — No response |
 | 6 | ICMP Payload Relay — Zero DPI | b5727197 | CWE-20, CWE-693 | — | N/A |
 
-Findings 4 and 5 are not published here pending resolution through active disclosure channels.
 
 ---
 
