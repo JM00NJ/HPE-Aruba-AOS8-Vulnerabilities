@@ -170,7 +170,7 @@ The security community is invited to review the individual writeups and form its
 
 ## Responsible Disclosure
 
-All findings were submitted to the HPE Networking Product Public Program on Bugcrowd prior to publication. The program has classified findings 1, 2, 3, and 6 as non-vulnerabilities. Findings 4 and 5 remain in active disclosure and are not published here.
+All findings were submitted to the HPE Networking Product Public Program on Bugcrowd prior to publication. The program has classified findings 1, 2, 3, 4, 5 and 6 as non-vulnerabilities.
 
 ---
 
